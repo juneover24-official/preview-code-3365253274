@@ -1,0 +1,31 @@
+{
+  "qq_number": "3365253274",
+  "group_number": "1072407172",
+  "updated_at": "2026-04-23T15:52:36.064570",
+  "skins": [
+    {
+      "name": "草莓草莓-闷",
+      "file": "草莓草莓-闷.bdi",
+      "thumb": "草莓草莓-闷.bdi_py_26_light_thumb.png",
+      "full": "草莓草莓-闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓草莓-脆",
+      "file": "草莓草莓-脆.bdi",
+      "thumb": "草莓草莓-脆.bdi_py_26_light_thumb.png",
+      "full": "草莓草莓-脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "草莓草莓-闷.bds",
+      "thumb": "草莓草莓-闷.bds_py_26_light_thumb.png",
+      "full": "草莓草莓-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "草莓草莓-脆.bds",
+      "thumb": "草莓草莓-脆.bds_py_26_light_thumb.png",
+      "full": "草莓草莓-脆.bds_py_26_light.png"
+    }
+  ]
+}
