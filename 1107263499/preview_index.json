@@ -1,7 +1,7 @@
 {
   "qq_number": "3365253274",
   "group_number": "1107263499",
-  "updated_at": "2026-09-16T13:59:28+00:00",
+  "updated_at": "2026-09-16T14:00:16+00:00",
   "skins": [
     {
       "name": "猫咪厨房-脆",
@@ -37,6 +37,13 @@
       "thumb": "好多草莓-闷.bds_py_26_light_thumb.png",
       "full": "好多草莓-闷.bds_py_26_light_thumb.png",
       "file_id": "85d3a87c1a04168e34cab504cea33ffc"
+    },
+    {
+      "name": "好多草莓-脆",
+      "file": "好多草莓-脆.bds",
+      "thumb": "好多草莓-脆.bds_py_26_light_thumb.png",
+      "full": "好多草莓-脆.bds_py_26_light_thumb.png",
+      "file_id": "b4522489fab7dfdbcb87675902f4d7a7"
     }
   ]
 }
