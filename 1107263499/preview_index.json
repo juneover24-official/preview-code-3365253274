@@ -1,7 +1,7 @@
 {
   "qq_number": "3365253274",
   "group_number": "1107263499",
-  "updated_at": "2026-09-22T04:33:24+00:00",
+  "updated_at": "2026-09-22T04:34:23+00:00",
   "skins": [
     {
       "name": "猫咪厨房-脆",
@@ -65,6 +65,13 @@
       "thumb": "猫咪厨房-闷_融合.bdi_py_26_light_thumb.png",
       "full": "猫咪厨房-闷_融合.bdi_py_26_light_thumb.png",
       "file_id": "5afadaa483a8e42699dd8754150f9c1e"
+    },
+    {
+      "name": "猫咪厨房-脆",
+      "file": "猫咪厨房-脆_融合.bdi",
+      "thumb": "猫咪厨房-脆_融合.bdi_py_26_light_thumb.png",
+      "full": "猫咪厨房-脆_融合.bdi_py_26_light_thumb.png",
+      "file_id": "579a9c6d94552b1b1bb18462cc567714"
     }
   ]
 }
