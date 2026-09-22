@@ -1,7 +1,7 @@
 {
   "qq_number": "3365253274",
   "group_number": "1107263499",
-  "updated_at": "2026-09-22T04:38:40+00:00",
+  "updated_at": "2026-09-22T04:41:48+00:00",
   "skins": [
     {
       "name": "猫咪厨房-脆",
@@ -86,6 +86,13 @@
       "thumb": "兔喵记-脆_融合.bdi_py_26_light_thumb.png",
       "full": "兔喵记-脆_融合.bdi_py_26_light_thumb.png",
       "file_id": "e2ba986c233724ab6ecd44c5a1f964e7"
+    },
+    {
+      "name": "碎花兔-脆",
+      "file": "碎花兔-脆_融合.bdi",
+      "thumb": "碎花兔-脆_融合.bdi_py_26_light_thumb.png",
+      "full": "碎花兔-脆_融合.bdi_py_26_light_thumb.png",
+      "file_id": "d869a5e12350658fcc4466758f996f8c"
     }
   ]
 }
